@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer footer-li {
+  footer li {
+    cursor: pointer;
+  }
+  footer li:hover, footer li:active {
+    opacity: 0.8;
+  }
+}
