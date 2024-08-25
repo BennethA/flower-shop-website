@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div className="bg-image bg-cover bg-right relative h-lvh flex items-start justify-center flex-col bg-[url(src/assets/homeBg.jpg)]">
+    <div className="bg-image bg-cover bg-right relative h-lvh flex items-start justify-center flex-col bg-[url(https://raw.githubusercontent.com/BennethA/flower-shop-website/main/src/assets/homeBg.jpg)]">
       <div className="absolute w-1/2 p-3 flex gap-2 items-start flex-col">
         <h1 className="font-bold text-7xl">
           Fresh Flowers

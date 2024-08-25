@@ -15,7 +15,7 @@ function Reviews () {
           </p>
           <div className="flex gap-3">
             <div className="w-[30px] flex items-center justify-center rounded-full overflow-hidden">
-              <img src="src/assets/profile2.jpg" alt="" />
+              <img src="https://github.com/BennethA/flower-shop-website/blob/main/src/assets/profile2.jpg?raw=true" alt="" />
             </div>
             <div>
               <h3 className="font-semibold">Rebecca</h3>
@@ -32,7 +32,7 @@ function Reviews () {
           </p>
           <div className="flex gap-3">
             <div className="w-[30px] flex items-center justify-center rounded-full overflow-hidden">
-              <img src="src/assets/profile1.jpg" alt="" />
+              <img src="https://github.com/BennethA/flower-shop-website/blob/main/src/assets/profile1.jpg?raw=true" alt="" />
             </div>
             <div>
               <h3 className="font-semibold">Bismark</h3>
@@ -49,7 +49,7 @@ function Reviews () {
           </p>
           <div className="flex gap-3">
             <div className="w-[30px] flex items-center justify-center rounded-full overflow-hidden">
-              <img src="src/assets/profile3.jpg" alt="" />
+              <img src="https://github.com/BennethA/flower-shop-website/blob/main/src/assets/profile3.jpg?raw=true" alt="" />
             </div>
             <div>
               <h3 className="font-semibold">Jessica</h3>
