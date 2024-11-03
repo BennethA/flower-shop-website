@@ -1,12 +1,12 @@
 function Reviews () {
   return (
-    <div className="mt-3 mx-[5%]">
+    <div id="review" className="mt-3 mx-[5%]">
       <h3 className="text-center font-bold text-3xl bg-red-200 rounded-lg">
         Customer&#39;s 
         <span className="text-red-500"> Review</span>
       </h3>
       <div className="flex mt-2 gap-3 flex-wrap items-center justify-center">
-        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-lg shadow-black overflow-hidden p-2 gap-2 flex flex-col">
+        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-md shadow-black overflow-hidden p-2 gap-2 flex flex-col">
           <div className="text-red-500">
             O O O O O 
           </div>
@@ -23,7 +23,7 @@ function Reviews () {
             </div>
           </div>
         </div>
-        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-lg shadow-black overflow-hidden p-2 gap-2 flex flex-col">
+        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-md shadow-black overflow-hidden p-2 gap-2 flex flex-col">
           <div className="text-red-500">
             O O O O O 
           </div>
@@ -40,7 +40,7 @@ function Reviews () {
             </div>
           </div>
         </div>
-        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-lg shadow-black overflow-hidden p-2 gap-2 flex flex-col">
+        <div className="cursor-pointer relative max-w-[300px] rounded-xl shadow-md shadow-black overflow-hidden p-2 gap-2 flex flex-col">
           <div className="text-red-500">
             O O O O O 
           </div>

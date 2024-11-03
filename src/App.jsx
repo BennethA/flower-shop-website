@@ -1,11 +1,11 @@
 import './App.css'
-import Home from './Home'
-import About from './About'
-import Footer from './Footer'
-import Header from './Header'
-import Reviews from './Review'
-import Contact from './Contact'
-import Products from './Products'
+import Home from './components/Home'
+import Footer from './components/Footer'
+import Header from './components/Header'
+import Reviews from './components/Review'
+import Contact from './components/Contact'
+import Products from './components/Products'
+import About from './components/About'
 
 function App() {
 

@@ -1,6 +1,6 @@
 function About() {
   return (
-    <div className="mt-3 mx-[5%]">
+    <div id="about" className="mt-5 mx-[5%]">
       <div className="py-8">
         <h2 className="text-red-400 text-center text-3xl font-bold">
           About <span className="text-black">Us</span>

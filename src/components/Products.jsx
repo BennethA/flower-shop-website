@@ -58,7 +58,7 @@ function Products () {
   ]
 
   return (
-    <div className="mt-3 mx-[5%]">
+    <div id="products" className="mt-3 mx-[5%]">
       <h3 className="bg-[#f18c8c] text-center rounded-lg font-bold text-3xl">
         Latest 
         <span className="text-red-500"> Products</span>

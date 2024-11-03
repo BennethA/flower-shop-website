@@ -1,6 +1,6 @@
 function Contact () {
   return (
-    <div>
+    <div id="contact">
     <div className="mt-3 mx-[5%]">
       <h3 className="text-center font-bold text-3xl bg-red-200 rounded-lg">
         <span className="text-red-500">Contact </span> Us
